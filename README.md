@@ -1,4 +1,4 @@
-# DyCAC: Core Modules
+# Don' t Box Me In: Dynamic Cultural Adaptation and Cognitive Tracking for Social Understanding
 
 This repository contains the four core modules of **DyCAC**, a training-free framework for dynamic cultural adaptation and continuous cognitive tracking in dialogue.
 
